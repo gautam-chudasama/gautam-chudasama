@@ -1,93 +1,208 @@
-# Hi there, I'm Gautamkumar Chudasama! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Gautamkumar%20Chudasama&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20Specialist&descAlignY=51&descAlign=62" alt="header" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <a href="https://linkedin.com/in/grchudasama-it-lecm-cte"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gautam.chudasama@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/gautam-chudasama"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="tel:+916355959009"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact" /></a>
+</div>
 
-I'm a passionate Full Stack Web Developer currently pursuing B.E. in Information Technology at Lukhdhirji Engineering College, Morbi. I love building responsive web applications and am always eager to contribute to innovative, real-world projects while growing as a developer.
+<br>
 
-- 🎓 Currently in my final year of B.E. Information Technology (CGPA: 7.59)
-- 💼 Experienced in building full-stack applications with MERN stack
-- 🌱 Constantly learning and exploring new technologies
-- 📫 Reach me at: **gautam.chudasama@outlook.com**
-- 📱 Contact: **+91 6355959009**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gautam-chudasama&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/gautam-chudasama?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+</div>
 
-## 🛠️ Tech Stack
+## 🎯 Professional Summary
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-chudasama&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gautam-chudasama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=1F6FEB" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+> Passionate Full Stack Developer specializing in MERN stack development with a strong foundation in modern web technologies. Currently pursuing B.E. in Information Technology with a CGPA of 7.59. Committed to building scalable, user-centric applications and continuously expanding technical expertise.
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+## 🛠️ Technical Proficiency
 
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
-## 💼 Featured Projects
+### 💻 Core Technologies
+![](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb&theme=dark)
 
-### 🛍️ E-Commerce Management System
-A comprehensive full-stack web application featuring:
-- **User Authentication** with secure login/signup
-- **Product Catalog Management** with CRUD operations
-- **Admin Dashboard** for complete control
-- **Shopping Cart** functionality with persistent storage
-- **Role-based Access Control** for users and admins
+### 🎨 Styling & Frameworks
+![](https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark)
 
-**Tech Stack:** React, Redux, Axios, Node.js, Local Storage, Tailwind CSS
+### 🔧 Development Tools
+![](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+
+### 📚 Additional Skills
+![](https://skillicons.dev/icons?i=java,c&theme=dark)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-chudasama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=FFFFFF" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gautam-chudasama&theme=tokyonight" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gautam-chudasama&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Management System</h3>
+        <div align="center">
+          <a href="https://github.com/gautam-chudasama/e-commerce-management" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" />
+            <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          </p>
+          <p><strong>Full-stack e-commerce platform featuring:</strong></p>
+          <ul align="left">
+            <li>🔐 Secure user authentication system</li>
+            <li>📦 Complete product catalog with CRUD operations</li>
+            <li>👨‍💼 Admin dashboard with analytics</li>
+            <li>🛒 Persistent shopping cart functionality</li>
+            <li>🔑 Role-based access control</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">RecipeVault</h3>
+        <div align="center">
+          <a href="https://github.com/gautam-chudasama/recipevault" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          </p>
+          <p><strong>Dynamic recipe management application:</strong></p>
+          <ul align="left">
+            <li>📝 Create, edit, and delete recipes</li>
+            <li>⭐ Favorite recipes feature</li>
+            <li>💾 Local storage for data persistence</li>
+            <li>🏗️ Component-based architecture</li>
+            <li>🎨 Intuitive and responsive UI design</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gautam-chudasama&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1F6FEB&line=1F6FEB&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/B.E._Information_Technology-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Degree" />
+        <br><strong>Lukhdhirji Engineering College, Morbi</strong>
+        <br>2022 - Present | CGPA: 7.59
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HSC_Science-00897B?style=for-the-badge&logo=book&logoColor=white" alt="HSC" />
+        <br><strong>Sorath International School, Junagadh</strong>
+        <br>2021 - 2022 | 61.38%
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 💡 Skills Proficiency
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gautam_chudasama&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+</div>
+
+<details>
+<summary><b>📊 Detailed Skill Breakdown</b></summary>
+<br>
+
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Redux | ████████░░ 80% |
+| **Styling** | Bootstrap, Tailwind CSS | ████████░░ 85% |
+| **Backend** | Node.js, Express.js | ███████░░░ 70% |
+| **Database** | MongoDB | ███████░░░ 70% |
+| **Version Control** | Git, GitHub | ████████░░ 80% |
+| **Languages** | Java (Basic), C (Basic) | █████░░░░░ 50% |
+
+</details>
+
+## 🌟 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/learning.png" alt="Learning" />
+        <br><strong>Currently Learning</strong>
+        <br>Advanced React Patterns
+        <br>System Design
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/project.png" alt="Working" />
+        <br><strong>Working On</strong>
+        <br>Portfolio Website
+        <br>Open Source Contributions
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/48/000000/goal.png" alt="Goals" />
+        <br><strong>2025 Goals</strong>
+        <br>Master MERN Stack
+        <br>Contribute to Major Projects
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📬 Let's Connect!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <h3>💼 Open for Opportunities</h3>
+  <p>I'm actively seeking full-stack development roles where I can contribute my skills and continue growing as a developer.</p>
+  
+  [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam.chudasama@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grchudasama-it-lecm-cte)
+</div>
 
 ---
 
-### 🍳 RecipeVault
-A dynamic recipe management application where users can:
-- **Add, Edit, and Delete** recipes with ease
-- **Mark Favorites** for quick access
-- **Persistent Storage** using browser local storage
-- **Component-based Architecture** for scalability
-- **User-friendly UI** with intuitive design
-
-**Tech Stack:** React, JavaScript, Local Storage, Tailwind CSS
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautam-chudasama&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-chudasama&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-chudasama&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grchudasama-it-lecm-cte)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautam.chudasama@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautam-chudasama)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gautam-chudasama&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
 </div>
