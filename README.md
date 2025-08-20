@@ -155,7 +155,7 @@
   <a href="https://github.com/gautam-chudasama">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
   </a>
-  <a href="tel:+916355959009">
+  <a href="https://wa.me/916355959009" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp" />
   </a>
 </div>
